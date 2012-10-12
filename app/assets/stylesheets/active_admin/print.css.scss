@@ -6,11 +6,11 @@ $text-color: black;
 
 // Reset
 //@import "active_admin/mixins/reset";
-@include global-reset;
+//@include global-reset;
 
 // Partials
 body.active_admin {
-  @import "active_admin/typography";
+  //@import "active_admin/typography";
 }
 
 body.active_admin {
